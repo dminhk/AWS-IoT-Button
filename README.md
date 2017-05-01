@@ -1,6 +1,6 @@
 # AWS IoT Button and More
 
-## Collection of Automation Ideas, Experimentation and Use Case Examples of AWS IoT Button
+* Collection of Automation Ideas, Experimentation and Use Case Examples of AWS IoT Button
 
 ### Reference
 
